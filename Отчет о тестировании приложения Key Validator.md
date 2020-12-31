@@ -12,11 +12,17 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-При запуске приложение KeyValidator выдает неверный результат https://github.com/MargaritaPustovalova/j1.1/issues/1
+При запуске приложение KeyValidator выдает неверный результат Issue 1 
 
-При проверке валидных ключей некоторые ключи не являются валидными https://github.com/MargaritaPustovalova/j1.1/issues/2
+https://github.com/MargaritaPustovalova/j1.1/issues/1
 
-При проверке невалидных ключей некоторые ключи являются валидными https://github.com/MargaritaPustovalova/j1.1/issues/3
+При проверке валидных ключей некоторые ключи не являются валидными Issue 2 
+
+https://github.com/MargaritaPustovalova/j1.1/issues/2
+
+При проверке невалидных ключей некоторые ключи являются валидными Issue 3
+
+https://github.com/MargaritaPustovalova/j1.1/issues/3
 
 ## Описание процесса тестирования 
 
